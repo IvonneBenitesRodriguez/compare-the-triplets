@@ -2,9 +2,9 @@
 
 # 📗 Table of Contents
 
-- [RubyCapstoneFinalProject](#rubycapstonefinalproject)
+- [compare-the-triplets](#compare-the-triplets)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[RubyCapstoneFinalProject\] ](#-rubycapstonefinalproject-)
+- [📖 \[compare-the-triplets\] ](#-compare-the-triplets-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [🌸🌷 Key Features ](#-key-features-)
@@ -20,8 +20,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [RubyCapstoneFinalProject] <a name="about-project"></a>
-*RubyCapstoneFinalProject* is a project based on Ruby programming language, this project is about a **Catalog to show things in a console app** where users can manage collections of own items, including books, music albums, movies, and games. Users can track several details about the mentioned items and enjoy of this app functionalities like adding new items, listing items and more. This project implements **OOP Principles**.<br/>
+# 📖 [compare-the-triplets] <a name="about-project"></a>
+*compare-the-triplets* is a project based on Ruby programming language, this project is about a **Catalog to show things in a console app** where users can manage collections of own items, including books, music albums, movies, and games. Users can track several details about the mentioned items and enjoy of this app functionalities like adding new items, listing items and more. This project implements **OOP Principles**.<br/>
 
 ## 🛠 Built With <a name="built-with"></a>
 
