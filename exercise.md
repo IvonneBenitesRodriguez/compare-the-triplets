@@ -58,10 +58,11 @@ Explanation:
 a = (a[0], a[1], a[2]) = (5, 6, 7)
 b = (b[0], b[1], b[2]) = (3, 6, 10)
 
-Comparing (individual score):This is the conditional
-a[0] > b[0] => Alice receives 1 point.
-a[1] = b[1] => Nobody receives points.
-a[2] < b[2] => Bob receives 1 point.
+Comparing (individual score):<br/>
+This is the condition:<br/>
+a[0] > b[0] => Alice receives 1 point.<br/>
+a[1] = b[1] => Nobody receives points.<br/>
+a[2] < b[2] => Bob receives 1 point.<br/>
 
 Alice's comparison score is 1, and Bob's comparison score is 1
 Thus, we return the array [1,1]
