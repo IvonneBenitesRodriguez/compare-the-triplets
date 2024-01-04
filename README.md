@@ -59,7 +59,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com/IvonneBenitesRodriguez/RubyCapstoneFinalProject.git
+  git clone git@github.com/IvonneBenitesRodriguez/compare-the-triplets.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
