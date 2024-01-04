@@ -34,18 +34,6 @@
   </ul>
 </details>
 
-### 🌸🌷 Key Features <a name="key-features"></a>
-- **[Add new book]**
-- **[Add new games]**
-- **[Add new music albums]**
-- **[List all items added]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Video Presentation Link](https://drive.google.com/file/d/1h5R-_EZiN1wqvJ5DhnEHGD5NOdGccGfx/view?usp=sharing)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -71,24 +59,6 @@ Clone this repository to your desired folder:
 - 🌷GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
 - 🌷Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
 - 🌷LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
-  
-    
-👤 *Gilbert Happi*
-
-- Github: [Gilbert Happi Dushimimana](https://github.com/gilberthappi)
-- X: [Gilbert Happi Dushimimana](https://twitter.com/DushimimanaGil3)
-- LinkedIn: [Gilber Happi Dushimimana](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
- 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭🌷 Future Features <a name="future-features"></a>
-
-- [ ] **[Add movies]**
-- [ ] **[List movies]**
-- [ ] **[Add new book]**
-- [ ] **[Add new music albums]**
-- [ ] **[List all items added]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,13 +73,12 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 <!-- ACKNOWLEDGEMENTS --> 
-<!-- ACKNOWLEDGEMENTS -->
 
 If you find this project helpful, consider giving a star ⭐️ to show your support.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse for this great opportunity.
+We would like to thank my friend and coding partner Maximo Ortelli for his great initiative in building together Hackerrank Challenges.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
