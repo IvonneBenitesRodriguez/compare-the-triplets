@@ -82,6 +82,8 @@ Feel free to check the [issues page](../../issues/).
 
 If you find this project helpful, consider giving a star ⭐️ to show your support.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my friend and coding partner Maximo Ortelli for his great initiative in building together Hackerrank Challenges.
