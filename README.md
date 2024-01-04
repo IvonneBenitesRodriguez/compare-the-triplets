@@ -19,7 +19,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [compare-the-triplets] <a name="about-project"></a>
+# 📖 compare-the-triplets <a name="about-project"></a>
 **compare-the-triplets** is a Hackerrank Challenge with solutions in JavaScript and Python.<br/>
 
 ## 🛠 Built With <a name="built-with"></a>
