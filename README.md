@@ -27,9 +27,9 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Ruby🌷</summary>
+<summary>Python🌷</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/es/">Ruby🌷</a></li>
+    <li><a href="https://docs.python.org/3/">Python🌷</a></li>
   </ul>
 </details>
 <details>
