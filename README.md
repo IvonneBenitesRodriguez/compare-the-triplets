@@ -33,6 +33,13 @@
     <li><a href="https://www.ruby-lang.org/es/">Ruby🌷</a></li>
   </ul>
 </details>
+<details>
+<summary>JavaScript🌷</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript🌷</a></li>
+  </ul>
+</details>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
